@@ -1,0 +1,2 @@
+salesforce developer edition
+https://orgfarm-ca2a043177-dev-ed.develop.my.salesforce-setup.com/lightning/setup/SetupOneHome/home
